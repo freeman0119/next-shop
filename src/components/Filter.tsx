@@ -1,6 +1,5 @@
 "use client";
 
-import { log } from "console";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 
 const Filter = () => {
